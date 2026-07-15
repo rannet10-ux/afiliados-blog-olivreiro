@@ -20,38 +20,6 @@ const categories = [
   { name: 'Poesia', slug: 'poesia' },
   { name: 'Biografias', slug: 'biografias' },
 ];
-
-const amazonLink = 'https://www.amazon.com.br/?&_encoding=UTF8&tag=olivreiro-20&linkCode=ur2&linkId=olivreiro';
-
-const recommendedBooks = [
-  {
-    title: 'Duna (Edição Especial)',
-    author: 'Frank Herbert',
-    image: 'https://images-na.ssl-images-amazon.com/images/I/81zN7udGRUL.jpg', // Placeholder premium de Duna
-    rating: 4.9,
-    reviews: '12.450',
-    link: amazonLink,
-    priceRange: 'R$ 59 - R$ 79'
-  },
-  {
-    title: 'Cem Anos de Solidão',
-    author: 'Gabriel García Márquez',
-    image: 'https://images-na.ssl-images-amazon.com/images/I/81794b-4qyL.jpg', // Placeholder premium
-    rating: 4.8,
-    reviews: '9.820',
-    link: amazonLink,
-    priceRange: 'R$ 49 - R$ 65'
-  },
-  {
-    title: 'Sapiens: Uma Breve História',
-    author: 'Yuval Noah Harari',
-    image: 'https://images-na.ssl-images-amazon.com/images/I/7137563snAL.jpg', // Placeholder premium
-    rating: 4.7,
-    reviews: '18.540',
-    link: amazonLink,
-    priceRange: 'R$ 55 - R$ 75'
-  }
-];
 ---
 
 <div class="sidebar-container">
@@ -108,33 +76,6 @@ const recommendedBooks = [
         </li>
       ))}
     </ul>
-  </section>
-
-  <!-- Leituras Recomendadas -->
-  <section class="sidebar-section books-section">
-    <h3 class="section-title">Leituras Recomendadas</h3>
-    <div class="recommended-books">
-      {recommendedBooks.map(book => (
-        <div class="book-card">
-          <div class="book-img">
-            <!-- Em caso de imagem real não carregar, temos um fallback estilizado de capa de livro -->
-            <img src={book.image} alt={book.title} loading="lazy" width="65" height="90" decoding="async" onerror="this.src='/favicon.svg'; this.style.padding='10px';" />
-          </div>
-          <div class="book-info">
-            <h4 class="book-title" title={book.title}>{book.title}</h4>
-            <span class="book-author">{book.author}</span>
-            <div class="book-rating">
-              <span class="stars">{"★".repeat(Math.floor(book.rating))}</span>
-              <span class="rating-val">{book.rating} ({book.reviews})</span>
-            </div>
-            <p class="book-price">{book.priceRange}</p>
-            <a href={book.link} target="_blank" rel="noopener noreferrer nofollow" class="buy-button">
-              Ver na Amazon
-            </a>
-          </div>
-        </div>
-      ))}
-    </div>
   </section>
 </div>
 
@@ -260,103 +201,5 @@ const recommendedBooks = [
     background-color: var(--bg-color);
     border-color: var(--primary-color);
     color: var(--primary-color);
-  }
-
-  /* Livros Recomendados */
-  .recommended-books {
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-  }
-
-  .book-card {
-    display: flex;
-    gap: 1rem;
-    padding-bottom: 1.25rem;
-    border-bottom: 1px solid var(--border-color);
-  }
-
-  .book-card:last-child {
-    border-bottom: none;
-    padding-bottom: 0;
-  }
-
-  .book-img {
-    width: 65px;
-    height: 90px;
-    flex-shrink: 0;
-    background-color: #faf7f2;
-    border: 1px solid var(--border-color);
-    border-radius: 4px;
-    overflow: hidden;
-  }
-
-  .book-img img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-
-  .book-info {
-    display: flex;
-    flex-direction: column;
-    gap: 0.25rem;
-  }
-
-  .book-title {
-    font-family: var(--font-serif);
-    font-size: 0.9rem;
-    font-weight: 700;
-    line-height: 1.3;
-    color: var(--text-main);
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-
-  .book-author {
-    font-size: 0.75rem;
-    color: var(--text-muted);
-    font-weight: 500;
-  }
-
-  .book-rating {
-    display: flex;
-    align-items: center;
-    gap: 0.25rem;
-    font-size: 0.75rem;
-  }
-
-  .stars {
-    color: #eab308;
-    font-weight: bold;
-  }
-
-  .rating-val {
-    color: var(--text-muted);
-  }
-
-  .book-price {
-    font-size: 0.8rem;
-    font-weight: 700;
-    color: var(--text-main);
-  }
-
-  .buy-button {
-    font-size: 0.75rem;
-    background-color: var(--cta-color);
-    color: #ffffff !important;
-    font-weight: 700;
-    padding: 0.35rem 0.75rem;
-    border-radius: 0.25rem;
-    text-align: center;
-    display: inline-block;
-    transition: background-color 0.2s ease;
-    text-decoration: none !important;
-  }
-
-  .buy-button:hover {
-    background-color: var(--cta-hover);
   }
 </style>
