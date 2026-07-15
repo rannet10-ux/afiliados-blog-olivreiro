@@ -1,6 +1,6 @@
 ---
-title: "Resenha Crítica: "A Sombra da Borboleta" e a Fragilidade Humana"
-description: "Uma obra que mergulha nas profundezas da alma humana, explorando a fragilidade em face das adversidades. Descubra "A Sombra da Borboleta" - uma leitura impactante que te fará refletir."
+title: "Resenha Crítica: \"A Sombra da Borboleta\" e a Fragilidade Humana"
+description: "Uma obra que mergulha nas profundezas da alma humana, explorando a fragilidade em face das adversidades. Descubra \"A Sombra da Borboleta\" - uma leitura impactante que te fará refletir."
 pubDate: "2026-07-15"
 category: "ficcao"
 heroImage: "/images/posts/resenha-critica-a-sombra-da-borboleta-e-a-fragilidade-humana-9717.jpg"

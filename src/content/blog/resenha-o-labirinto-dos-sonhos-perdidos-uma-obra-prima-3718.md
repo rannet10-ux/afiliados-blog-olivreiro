@@ -1,5 +1,5 @@
 ---
-title: "Resenha: "O Labirinto dos Sonhos Perdidos" – Uma Obra Prima?"
+title: "Resenha: \"O Labirinto dos Sonhos Perdidos\" – Uma Obra Prima?"
 description: "Descubra a análise completa, contexto histórico e cultural no blog O Livreiro."
 pubDate: "2026-07-15"
 category: "ficcao"

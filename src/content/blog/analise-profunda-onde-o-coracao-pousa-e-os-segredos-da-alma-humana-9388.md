@@ -1,5 +1,5 @@
 ---
-title: "Análise Profunda: "Onde o Coração Pousa" e os Segredos da Alma Humana"
+title: "Análise Profunda: \"Onde o Coração Pousa\" e os Segredos da Alma Humana"
 description: "Descubra a análise completa, contexto histórico e cultural no blog O Livreiro."
 pubDate: "2026-07-15"
 category: "ficcao"

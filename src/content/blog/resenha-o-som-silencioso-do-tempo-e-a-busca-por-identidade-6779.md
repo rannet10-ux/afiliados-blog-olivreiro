@@ -1,5 +1,5 @@
 ---
-title: "Resenha: "O Som Silencioso do Tempo" e a Busca por Identidade"
+title: "Resenha: \"O Som Silencioso do Tempo\" e a Busca por Identidade"
 description: "Descubra a análise completa, contexto histórico e cultural no blog O Livreiro."
 pubDate: "2026-07-15"
 category: "ficcao"
