@@ -46,4 +46,4 @@ O tema mais comum é o futuro da humanidade, como a inteligência artificial, vi
 ### Desvende o Mundo da Não-Ficção Científica!
 Embarque em uma jornada de descobertas e expandas os horizontes do seu conhecimento com a não-ficção científica. É um universo de possibilidades!
 
-**[TAGS: ficcao_cientifica, leitura_gratuita, universo_espacial, ciência_real, tecnologia_futuro, livros_de_ciencia_futurista]**
+****

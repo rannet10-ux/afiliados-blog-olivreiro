@@ -62,4 +62,4 @@ A ficção contemporânea está se tornando cada vez mais imersiva e interativa 
 
 
 ***
-[TAGS: tecnologia, ficção, narrativa, realidade virtual, inteligência artificial, storytelling, futuro da leitura, autores, literatura]
+

@@ -74,4 +74,4 @@ O "Labirinto dos Sonhos Perdidos" é muito mais que um guia para dormir melhor. 
 
 O "Labirinto dos Sonhos Perdidos" é mais que um guia para dormir melhor. É uma jornada de autodescoberta, onde você se conecta com sua própria natureza, desvendando os segredos da mente humana.  Se você busca entender a relação entre o corpo e a alma, e como essa conexão impacta diretamente no seu sono, este livro é o essencial para começar essa jornada.
  
-[TAGS: psicologia do sono, autodescoberta, sono reparador, relaxamento, mindfulness]
+

@@ -86,4 +86,4 @@ A presença de autores emergentes na ficção brasileira é um reflexo da riquez
 
 
 
-**[TAGS: autores emergentes, ficção brasileira, literatura contemporânea, novas tendências, autores brasileiros, livros, leitura] **
+** **

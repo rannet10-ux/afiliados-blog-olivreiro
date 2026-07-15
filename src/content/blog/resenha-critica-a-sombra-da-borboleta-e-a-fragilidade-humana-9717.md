@@ -65,4 +65,4 @@ Não. "A Sombra da Borboleta" é uma obra de ficção, inspirada em experiência
 
 
 
-### [TAGS: literatura, romance, reflexões, fragilidade humana, significado da vida, autoconhecimento, metáforas, simbolismo, autores, leitura]
+### 

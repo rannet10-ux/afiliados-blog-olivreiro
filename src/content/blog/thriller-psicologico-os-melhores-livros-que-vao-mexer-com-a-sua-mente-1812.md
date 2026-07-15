@@ -58,4 +58,4 @@ Para uma experiência mais completa,  ler com calma e prestar atenção aos deta
 O thriller psicológico é um gênero que te convida a mergulhar em uma jornada profunda e complexa, onde a mente humana se torna o principal protagonista. As histórias são reflexões sobre o nosso interior, nos desafiando a questionar nossos próprios limites e a explorar as profundezas da nossa alma. 
 
 
-[TAGS: thriller psicológico, suspense, terror, leitura, livros, autores, literatura, psicologia, mente, suspense, horror, suspense psicológico]
+

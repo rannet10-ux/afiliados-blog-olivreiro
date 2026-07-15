@@ -63,4 +63,4 @@ A literatura policial está em constante evolução. Explore novos autores, subg
 
 
 
-### [TAGS: romance policial, mistério, suspense, detetive, crime, leitura, livros, gênero,  autor, editora,  blog, marketing, afiliado]
+### 

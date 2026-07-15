@@ -62,4 +62,4 @@ Com a popularização das plataformas de leitura digital, você pode se conectar
 A escolha do próximo livro de ficção é uma jornada única e pessoal, repleta de aventuras, emoções e reflexões.  Lembre-se que a leitura é um ato poderoso de conexão com o mundo, com a imaginação e com a história. Explore diferentes gêneros, autores e estilos literários, e encontre a sua própria voz na ficção!
 
 
-[TAGS: livro, leitura, ficcao, fantasia, romance, suspense, aventura, terror, cultura, história, mundo, realidade]
+

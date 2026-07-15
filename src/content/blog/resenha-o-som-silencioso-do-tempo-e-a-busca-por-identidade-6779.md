@@ -61,4 +61,4 @@ Sim, "O Som Silencioso do Tempo" é o primeiro passo em sua jornada introspectiv
 
 
 
-##  [TAGS:  autoconhecimento, identidade, felicidade, psicologia, introspecção, desenvolvimento pessoal, leitura, livros]
+##  

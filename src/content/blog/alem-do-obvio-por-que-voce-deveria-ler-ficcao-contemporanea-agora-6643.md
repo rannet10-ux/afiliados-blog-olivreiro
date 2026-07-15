@@ -62,4 +62,4 @@ Comece explorando autores que te interessam e tipos de histórias que você gost
 
 
 
-##  [TAGS: Ficção Contemporânea, Literatura Moderna, Autoconhecimento, Pensamento Crítico, Reflexão Social]
+##  

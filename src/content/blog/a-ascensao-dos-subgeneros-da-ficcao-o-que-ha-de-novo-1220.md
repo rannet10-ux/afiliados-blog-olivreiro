@@ -67,4 +67,4 @@ A ascensão dos subgêneros da ficção é uma prova do poder da criatividade e 
 
 ---
 
-[TAGS: ficcao, subgênero, literatura, romance, fantasia, terror, cyberpunk, realismo mágico, história]
+

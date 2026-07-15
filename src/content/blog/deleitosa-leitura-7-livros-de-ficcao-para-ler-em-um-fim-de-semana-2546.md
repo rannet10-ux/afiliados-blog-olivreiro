@@ -60,4 +60,4 @@ A literatura é uma forma poderosa de se conectar com outras pessoas e culturas,
 Para descobrir seus novos livros favoritos, experimente essas sugestões! 
 
 
-[TAGS: ficcao, leitura, livros, aventura, fantasia, suspense, romance, terror, realismo mágico, bestsellers]
+

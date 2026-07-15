@@ -61,4 +61,4 @@ Você pode registrar suas histórias em um diário, gravar vídeos ou criar um �
 As sagas familiares são como tesouros inigualáveis que se escondem no coração de cada família.  Por meio da sua força e do seu poder transformador, você pode transformar essas histórias em um legado de inspiração para as gerações futuras. 
 
 
-[TAGS: história, genealogia, família, tradição, cultura, identidade, memória, ancestralidade, legado, conexão, inspiração]
+

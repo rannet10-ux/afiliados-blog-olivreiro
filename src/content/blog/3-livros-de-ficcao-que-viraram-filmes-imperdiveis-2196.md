@@ -60,4 +60,4 @@ A saga de "Harry Potter" é ideal para iniciantes, com uma narrativa cativante e
 A leitura de livros de ficção se torna uma jornada mágica, onde os personagens nos convida a mergulhar em mundos imaginários. A magia da escrita transforma a página em tela, criando experiências memoráveis e inspiradas em histórias que ecoam por gerações.
 
 
-**[TAGS: fantasia, literatura, ficcao, livros, harry potter, lord of the rings, game of thrones, leitura]**
+****

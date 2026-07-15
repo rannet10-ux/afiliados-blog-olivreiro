@@ -61,4 +61,4 @@ A empatia não se limita ao mundo da ficção. Ela é uma ferramenta fundamental
 
 ---
 
-**[TAGS: Empatia, Ficção, Compreensão, Narração, Relato, Autoconhecimento, Literatura]**
+****

@@ -69,4 +69,4 @@ Explorar temas complexos em romances enriquece a leitura, permite conectar-se co
 
 
 
-[TAGS: romance, literatura, história, reflexões, drama, complexidade, autores, personagens, leitura, emoção, conexão, crítica]
+

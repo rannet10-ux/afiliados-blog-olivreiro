@@ -63,4 +63,4 @@ A lista de livros mais populares do gênero é extensa, mas alguns títulos clá
 
 
 
-### [TAGS: romance, literatura, storytelling, autoconhecimento, crescimento pessoal, cultura pop, leitura, fantasia, aventura, suspense]
+### 

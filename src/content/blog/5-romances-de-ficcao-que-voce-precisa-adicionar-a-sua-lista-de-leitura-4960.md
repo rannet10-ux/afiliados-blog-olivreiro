@@ -61,4 +61,4 @@ A leitura é uma forma de transporte que nos conecta com o universo imaginário,
 
 
 
-[TAGS: romanticas, literatura, romances, leitura, livros, histórias, paixão, amor, aventura, suspense, mistério, suspense, detetive, policial, clássico, moderno, adulto, contemporâneo, realismo mágico, fantasia, humor, drama, crítica social]
+
